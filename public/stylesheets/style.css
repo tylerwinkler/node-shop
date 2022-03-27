@@ -1,8 +1,17 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
   color: #00B7FF; }
+
+header {
+  background-color: #333;
+  top: 0;
+  width: 100%;
+  position: fixed;
+  transition: top 0.3s; }
+
+main {
+  padding-top: 50px; }
 
 /*# sourceMappingURL=style.css.map */
